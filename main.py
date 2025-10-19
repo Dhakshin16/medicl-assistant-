@@ -454,7 +454,7 @@ if "current_session_id" not in st.session_state:
 
 # --- API Setup ---
 try:
-    client = Groq(api_key="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")
+    client = enter api")
     pc = Pinecone("52eb674a-0527-4ccb-80b5-baacd6e6a1e7")
     index = pc.Index("quickstart")
 except Exception as e:
