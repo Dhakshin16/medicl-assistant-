@@ -1,2 +1,1 @@
-# medicl-assistant-
-medical based chat bot
+This is a chatbot. You can make as your daily assitance.Have Fun.👍
